@@ -1,9 +1,9 @@
-flask
-gunicorn
 pandas
 numpy
+seaborn
+matplotlib
 scikit-learn
-dill
-xgboost
 catboost
+xgboost
+Flask
 #-e .
