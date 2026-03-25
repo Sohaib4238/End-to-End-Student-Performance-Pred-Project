@@ -9,6 +9,7 @@ Welcome to the **End-to-End ML Project**. This application is an advanced machin
 Below is a visual diagram detailing how all the components inside this repository connect and interact with each other to form a complete end-to-end pipeline:
 
 ```mermaid
+%%{init: {'theme': 'neutral'}}%%
 mindmap
   root((End-to-End ML Project))
     User Interface (Frontend)
